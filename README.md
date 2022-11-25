@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sergius.
-- 👀 I’m interested in crating interesting things, solving problems and doing my best with my work.
-- 🌱 I’m currently learning how to start my own project.
-- 📫 How to reach me - see in twitter.
+👋 Hi, I’m Sergius.
+
+I have been interested in programming since childhood, for more than 25 years. I have been working as a full-stack developer for over 15 years and have written a project from scratch, now I am maintaining it and writing a new version. I use my framework for application logic on the client and third-party libraries for interface design.
+In general, technology does not matter, the main thing is a creative approach and love for your work.
