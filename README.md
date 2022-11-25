@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sergius.
 - 👀 I’m interested in crating interesting things, solving problems and doing my best with my work.
 - 🌱 I’m currently learning how to start my own project.
-- 📫 How to reach me see in twitter.
+- 📫 How to reach me - see in twitter.
